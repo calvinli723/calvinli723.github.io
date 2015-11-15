@@ -141,9 +141,14 @@ body {
 
 .side2side {
   display: inline-block;
-  width: 70%;
-  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
 
+}
+
+#images {
+  text-align: center;
 }
 
 /*
